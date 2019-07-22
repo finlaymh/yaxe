@@ -1,5 +1,5 @@
 # yaxe
-Yet Another Xor Encoder
+Yet Another Xor Encryptor
 
 
 # Usage
