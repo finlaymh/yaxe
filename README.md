@@ -1,5 +1,5 @@
 # yaxe
-Yet Another Xor Encryptor, executable in repo is built for 64 bit linux, so you may want to rebuild depending on your architecture!
+Yet Another Xor Encryptor, pretty basic but works!
 
 
 # Usage
